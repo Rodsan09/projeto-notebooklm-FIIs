@@ -4,7 +4,7 @@ Esse projeto utiliza NotebookLM como ferramenta de IA para auxiliar no estudo e 
 
 https://notebooklm.google.com/notebook/ea743ac2-9cd0-4e8e-8c42-1f4a10f8a121
 ----------
-**Objetivo**
+**OBJETIVO DO PROJETO**
   - Explicar para quais os tipos de FIIs
   - Auxiliar na tomada de decisão no investimento em FIIs
   - Gerar material didático das principais características de FIIs
